@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ansar Hussain
 =====================================================================================================================================
 
-Aspiring Python Software Developer
+Aspiring  Software Developer
 ----------------------------------
 
 Hey! I'm Ansar Hussain, an undergraduate student pursuing a B.Tech in Electronics and Communication Engineering at Kalasalingam University. Alongside my studies, I've developed a strong foundation in Python programming and MySQL database management. Looking forward to applying my technical skills to contribute to innovative projects and learn from experienced professionals in the tech industry.
